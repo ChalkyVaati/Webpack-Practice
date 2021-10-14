@@ -180,7 +180,7 @@ eval("module.exports = __webpack_require__.p + \"2c80834f1897d75b8c36.png\";\n\n
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 "use strict";
-eval("module.exports = __webpack_require__.p + \"31d6cfe0d16ae931b73c.woff\";\n\n//# sourceURL=webpack://getting-started-using-a-configuration/./src/my-font.woff?");
+eval("module.exports = __webpack_require__.p + \"02e12438e7d22b22de68.woff\";\n\n//# sourceURL=webpack://getting-started-using-a-configuration/./src/my-font.woff?");
 
 /***/ })
 
